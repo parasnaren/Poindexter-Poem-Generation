@@ -6,6 +6,8 @@ A poem generation model, that generates poems modeled on the famous poet **Chris
 The Christopher Poindexter poems and quotes are obtained by:
   - Scrapping [goodreads](https://www.goodreads.com/author/quotes/8197776.Christopher_Poindexter)
   - OCR text extraction from his poems on [Pinterest](https://in.pinterest.com/daijahvigo/christopher-poindexter/)
+  
+*Notebook [Quote Scrapper](https://github.com/parasnaren/Poindexter-Poem-Generation/blob/master/Quote%20Scrapper.ipynb) contains the code used for scrapping.*
 
 All the poems and quotes are stored in the file [**quotes.txt**](https://github.com/parasnaren/Poindexter-Poem-Generation/blob/master/quotes.txt) delimited by line breaks **\n**
 
