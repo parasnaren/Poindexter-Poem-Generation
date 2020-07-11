@@ -1,5 +1,5 @@
 # Poindexter-Poem-Generation
-A poem generation model, that generates poems modeled on the famous poet **Christopher Poindexter**. It is modeled using his poems and quotes.
+A poem generation model, that generates poems modeled on the famous poet **Christopher Poindexter**.
 
 ### Dataset
 
